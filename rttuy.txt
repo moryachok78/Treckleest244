@@ -1,4 +1,5 @@
-tuy
-yyu
+tuy -11
+yyu -11
 
 777
+
